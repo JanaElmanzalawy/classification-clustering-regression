@@ -41,7 +41,7 @@ The project also includes exploratory data analysis, data preprocessing, model e
 * F1-score
 * Confusion Matrix
 
-📁 [`classification/`](./classification/)
+📁 📁 [Classification](./ML%20project/Classification/)
 
 ---
 
