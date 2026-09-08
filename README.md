@@ -41,7 +41,7 @@ The project also includes exploratory data analysis, data preprocessing, model e
 * F1-score
 * Confusion Matrix
 
-📁 📁 [Classification](./ML%20project/Classification/)
+📁 [Classification](./ML%20project/Classification/)
 
 ---
 
@@ -64,7 +64,7 @@ The project also includes exploratory data analysis, data preprocessing, model e
 
 The optimal number of clusters is selected using **Silhouette Score**, supported by the Elbow Method.
 
-📁 [`clustering/`](./clustering/)
+📁 [Custering](./ML%20project/Custering/)
 
 ---
 
@@ -104,7 +104,7 @@ The optimal number of clusters is selected using **Silhouette Score**, supported
 * RMSE
 * R² Score
 
-📁 [`regression/`](./regression/)
+📁 [Regression](./ML%20project/Regression/)
 
 ---
 
@@ -235,22 +235,9 @@ Open any notebook inside the `classification`, `clustering`, or `regression` fol
 
 ---
 
-## 📈 Project Presentation
-
-The final project presentation is available in:
-
-📁 [`presentation/`](./presentation/)
-
----
-
 ## 👩‍💻 Author
 
-**Jana Elmanzalawy**
-
-Computer Science Student | Data Engineering Student
-
-Interested in **Data Engineering, Machine Learning, Python, and SQL**.
-
+**Group Project**
 ---
 
 ## ⭐ Future Improvements
